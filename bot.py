@@ -2,7 +2,7 @@ import telebot
 from datetime import datetime, timedelta
 import time
 
-TOKEN = "413055169:AAEFwg2vGyprcAWzGE5x1gXhyHeZxCLHGhk"
+TOKEN = "496468401:AAHFcONahk7qno39ovLwyH9O4EwEloEc138"
 
 bot = telebot.TeleBot(TOKEN)
 admin = [273353288]
